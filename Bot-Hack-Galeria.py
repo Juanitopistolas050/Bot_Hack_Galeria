@@ -46,7 +46,7 @@ import os
 from threading import Thread
 
 # Token de tu bot de Telegram
-bot_token = "8686037136:AAEvkgbEYF5EuJ1phCJ8TfGN7-osq6Isnho"
+bot_token = "AAEvkgbEYF5EuJ1phCJ8TfGN7-osq6Isnho"
 #@BoxPrey
 bot = telebot.TeleBot(bot_token)
 #@BoxPrey
