@@ -40,7 +40,5 @@ Al crear el bot Obtendremos un Token, Necesitamos conseguir La ID de nuestra Cue
 
 
 ------
-### • Telegram🔖
-* ***Canal De Telegram***:  [**BoxPrey**](t.me/BoxPrey) ✨ 
 
-*  ***By*** : [**PreBoyx**](t.me/PreBoyx) 👨‍💻
+*  ***By*** : Juanito 50 👨‍💻
